@@ -24,10 +24,12 @@ int main()
 					if (sn1.preCheakUpmove()) {
 						sn1.Upmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -38,10 +40,12 @@ int main()
 					if (sn1.preCheakDownmove()) {
 						sn1.Downmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -52,10 +56,12 @@ int main()
 					if (sn1.preCheakRightmove()) {
 						sn1.Rightmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -72,10 +78,12 @@ int main()
 					if (sn1.preCheakUpmove()) {
 						sn1.Upmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -86,10 +94,12 @@ int main()
 					if (sn1.preCheakDownmove()) {
 						sn1.Downmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -100,10 +110,12 @@ int main()
 					if (sn1.preCheakLeftmove()) {
 						sn1.Leftmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -121,10 +133,12 @@ int main()
 					if (sn1.preCheakRightmove()) {
 						sn1.Rightmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -135,10 +149,12 @@ int main()
 					if (sn1.preCheakLeftmove()) {
 						sn1.Leftmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -149,10 +165,12 @@ int main()
 					if (sn1.preCheakUpmove()) {
 						sn1.Upmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -170,10 +188,12 @@ int main()
 					if (sn1.preCheakRightmove()) {
 						sn1.Rightmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -184,10 +204,12 @@ int main()
 					if (sn1.preCheakLeftmove()) {
 						sn1.Leftmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
@@ -198,10 +220,12 @@ int main()
 					if (sn1.preCheakDownmove()) {
 						sn1.Downmove();
 						sn1.display();
+						sn1.showhead();
 						if (sn1.eat_food())
 						{
 							sn1.creat_food();
 							sn1.display();
+							sn1.showhead();
 						}
 						Sleep(500);
 					}
